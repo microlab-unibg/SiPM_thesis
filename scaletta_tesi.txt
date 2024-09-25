@@ -1,0 +1,38 @@
+- Introduzione: questa va scritta per ultima e di solito contiene una presentazione generale del lavoro svolto con una breve (2-3 righe) riassunto del contenuto dei capitoli.
+- Capitolo 1: caratterizzazione sperimentale di SiPM: qui metti tutti i risultati delle misure che hai fatto, partendo dal setup di misura (dei vindice che strumento hai usato e come lo hai usato) magari mettendo anche uno schema del setup e/o una fotografia. 
+- Capitolo 2: simulazione di reti di condizionamento per la lettura di SiPM: metti tutti i risultati delle simulazioni, banalmente più inserire quello che hai messo nella presentazione del corso di PSE aggiungendo un po’ di commenti come testo.
+- Capitolo 3: rivelazione di muoni cosmici con SiMP e scintillatore: qui descrivi il setup che hai usato e metti i plot dei risultati delle misure
+- Conclusioni: anche queste si fanno per ultime. Qui metti in evidenza i risultati che hai ottenuto.
+- Bibliografia: su questa ne parliamo più avanti.
+-----------
+Update dall'ultima mail del professore:
+	*sistemato capitolo 1:
+		-aggiunta spiegazione su SiPM, fotodiodi, SPAD
+		-aggiunta foto
+		-per quanto riguarda commenti 22 e 23 pensavo di descrivere lo scintillatore e l'obiettivo del progetto nell'introduzione
+		-per i riferimenti il professore mi ha detto di aspettare, intanto li ho salvati
+		-suggerimenti per la conclusione
+-----------
+Fare foto a SiPM
+-----------
+Fonti
+foto sipm: https://wiki.muonpi.org/index.php?title=SiPM_board#cite_ref-3
+informazioni sipm:
+	*https://www.onsemi.com/pub/collateral/and9770-d.pdf
+	*https://drive.google.com/drive/folders/1nccZP0Cd2EGvXK10aUAUEVJguvNZA4wV
+info pyvisa:
+	*https://pyvisa.readthedocs.io/en/latest/
+info bga614:
+	*https://www.infineon.com/dgdl/Infineon-BGA614-DS-v02_01-en.pdf?fileId=db3a304314dca3890115418ffd35163a
+info bjt
+	*http://www-micro.deis.unibo.it/~graffi/Altre/appunti/bjt.pdf
+info scintillatore:
+	*https://www0.mi.infn.it/~sleoni/TEACHING/Nuc-Phys-Det/PDF/Lezione-partI-6-scint-det.pdf
+	*https://www.sciencedirect.com/science/article/abs/pii/S0168900222006982
+info Butterworth:
+	*http://www.diag.uniroma1.it/deluca/contrdig/14_ProblemiReaIizzazione.pdf
+	*https://online.scuola.zanichelli.it/mirandola-files/Elettronica_V03/Capitolo_02/Mirandola_V3_02-3_Filtri_ordine_superiore.pdf
+info muoni:
+	*https://muonsources.org/about-muons/
+	*https://www.energy.gov/science/doe-explainsmuons
+	*

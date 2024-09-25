@@ -1,0 +1,39 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Fotografia di un SiPM (sinistra) e di uno SPAD (destra) con il circuito equivalente (sotto) \cite {linssen_2023_eurizon}.}}{4}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Schema strutturale di un SPAD, con a destra il grafico che descrive l'andamento dell campo elettrico avvicinandosi al catodo \cite {linssen_2023_eurizon}.}}{4}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Andamento nel dominio del tempo del ciclo breakdown-quench-reset (sinistra) e regioni di funzionamento nella caratteristica I-V (destra). In quest'ultima immagine il valore $V_B$ è indicato dalla freccia tra Reset e Breakdown.}}{5}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces a) Schematico della SiPM board usata nel progetto MuonPi. b) Fotografia di un SiPM \cite {muonpiwikicontributors_2017_sipm}.}}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Setup utilizzato per determinare la caratteristica tensione corrente del SiPM. In primo piano il SiPM collegato attraverso un cavo di tipo BNC con connettore Lemo al DC Power Analyzer che si vede in secondo piano. Sul display di quest'ultimo si notano i valori di tensione e corrente erogati.}}{7}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Caratteristica tensione-corrente del SiPM misurata tra \SI {0}{\volt } e \SI {1}{\volt } con il solo SiPM collegato al DC Power Analyzer}}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Caratteristica tensione-corrente del SiPM misurata tra \SI {0,7}{\volt } e \SI {1}{\volt } con il solo SiPM collegato al DC Power Analyzer, si apprezza l'andamento lineare e la corrispondenza tra modello lineare e risultati empirici oltre ai valori di coefficente angolare e quota del modello.}}{9}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Schematico di una microcella}}{10}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Schema circuitale del BGA614. I pin 1 e 3 vanno collegati al circuito mentre il pin 2 va collegato a massa.}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Schema circuitale della configurazione Darlington \cite {david_2019_}.}}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Schema circuitale del preamplificatore. Il generatore di corrente $\delta $ è il modello del sottosistema SiPM-scintillatore.}}{13}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Schema circuitale del preamplificatore in DC.}}{14}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces In alto il modello in AC del BJT in cui vengono considerate le approssimazioni, sotto il modello usato dal simulatore senza approssimazioni, con la presenza delle due resistenze $r_\pi $ e $r_\text {ce}$.}}{16}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Schema circuitale del preamplificatore in AC.}}{16}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Schema circuitale del preamplificatore in AC considerando $\omega \to \infty $.}}{17}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Diagrammi di Bode della funzione di trasferimento $\frac {V_\text {out}}{\delta }$. In linea continua il diagramma del guadagno, in linea tratteggiata quello della fase.}}{19}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Andamento in transitorio del nodo $3$ del preamplificatore.}}{20}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Caratteristica I-V del preamplificatore per valori di corrente compresi tra \SI {0}{\ampere } e \SI {20}{\milli \ampere }.}}{20}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Caratteristica I-V del preamplificatore per valori di corrente compresi tra \SI {0}{\ampere } e \SI {8}{\milli \ampere }.}}{21}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Schematico del preamplificatore in EAGLE.}}{22}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Differenza visiva tra dispositivi SMD, a sinistra, e dispositivi PTH, a destra.}}{22}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces La PCB dell'amplificatore. Le dimensioni sono di $\SI {85.8}{\milli \meter } \times \SI {33.3}{\milli \meter }$}}{23}{figure.caption.29}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Il processo di formazione dei muoni \cite {luu_2020_decode}.}}{26}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Il circuito utilizzato per l'alimentazione e per la lettura del segnale in uscita dal SiPM. Sono presenti tre connettori: quella a sinistra è per l'alimentazione, i due di destra sono usati per la lettura del segnale. Nel caso analizzato è stato utilizzato solo uno dei due connettori di lettura.}}{28}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Il setup usato per la rivelazione dei muoni cosmici. A sinistra il DC Power Analyzer, in alto a destra l'oscilloscopio e in basso a destra lo scintillatore con i due SiPM. Lo scintillatore e i due SiPM sono circondati da un involucro per minimizzare le radiazioni luminose e non che possono colpirli.}}{29}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Il display dell'oscilloscopio che mostra l'andamento della tensione di uscita del SiPM all'arrivo di un muone.}}{30}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Grafico ottenuto a partire dai dati raccolti dall'oscilloscopio che mostra l'andamento della tensione di uscita del SiPM all'arrivo di un muone. In questo caso il grafico è stato trasformato nel suo simmetrico rispetto all'asse delle ascisse per avere una maggiore leggibilità.}}{30}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Differenza nell'andamento del grafico di un filtro passa-bassa Butterworth con l'aumento o la diminuzione dell'ordine. L'aumento o la diminuzione della pulsazione di taglio sposta, rispettivamente, a destra o sinistra l'inizio della discesa \cite {mirandola_2012_progettazione}. }}{31}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Grafico ottenuto a partire dall'applicazione di un filtro passa-basso di Butterworth al grafico della \autoref *{fig:20240502_single_bias_42V_trig_m50mV_box_indoor}.}}{32}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Istrogramma dei valori minimi delle misure}}{33}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Andamento della distribuzione di Landau}}{34}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Fit della distribuzione di Landau sui valori ottenuti dall'istogramma.}}{35}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Due esempi di grafici scartati in cui vengono riportati la versione non filtrata e quella filtrata}}{36}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Istogramma della distribuzione dei depositi di energia dei muoni con escluse le misure rumorose.}}{37}{figure.caption.41}%

@@ -1,0 +1,36 @@
+\documentclass[12pt, a4paper, twoside, openright]{report}
+\input{preamble.tex}
+
+
+% ============= Document ============= %
+\begin{document}
+
+% =========== Frontespizio =========== %
+\input{frontespizio}
+\blankpage
+\blankpage
+\restoregeometry
+
+% ============== Indice ============== %
+\pagenumbering{roman}
+\tableofcontents
+\listoffigures
+\listoftables
+\afterpage{\blankpage}
+\newpage
+\pagenumbering{arabic}
+
+% ============= Capitoli ============= %
+\addcontentsline{toc}{chapter}{Introduzione}
+\input{introduzione.tex}
+\input{capitolo1.tex}
+\input{capitolo2.tex}
+\input{capitolo3.tex}
+\addcontentsline{toc}{chapter}{Conclusioni}
+\input{conclusione.tex}
+
+% =========== Bibliografia =========== %
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+\end{document}

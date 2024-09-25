@@ -1,0 +1,20 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{Elenco delle figure}{iii}{chapter*.2}%
+\contentsline {chapter}{Elenco delle tabelle}{vii}{chapter*.3}%
+\contentsline {chapter}{Introduzione}{1}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Caratterizzazione sperimentale di SiPM}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Analisi e funzionamento di un SiPM}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Descrizione del setup di misura}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Risultati delle misure effettuate}{8}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Simulazione del preamplificatore}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Punto di lavoro stazionario}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Analisi di piccolo segnale}{15}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Analisi nel dominio del tempo}{19}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Progettazione della PCB}{21}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Rivelazione di muoni cosmici}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}I muoni}{25}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Descrizione del setup di misura}{26}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Raccolta e analisi dei dati}{29}{section.3.3}%
+\contentsline {chapter}{Conclusioni}{36}{figure.caption.41}%
+\contentsline {chapter}{Bibliografia}{41}{chapter*.43}%

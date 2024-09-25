@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  13 SEP 2024 12:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  25 SEP 2024 18:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex"
-(c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex
+**"c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TRIENNALE/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex"
+(c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TRIENNALE/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -1327,12 +1327,12 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 2.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 2.
-<img/sipm_adp_circuito.png, id=276, 379.4175pt x 290.88675pt>
+<img/sipm_adp_circuito.png, id=282, 379.4175pt x 290.88675pt>
 File: img/sipm_adp_circuito.png Graphic file (type png)
 <use img/sipm_adp_circuito.png>
 Package pdftex.def Info: img/sipm_adp_circuito.png  used on input line 11.
 (pdftex.def)             Requested size: 320.0935pt x 245.40845pt.
-<img/ADP.png, id=280, 286.06876pt x 167.4255pt>
+<img/ADP.png, id=286, 286.06876pt x 167.4255pt>
 File: img/ADP.png Graphic file (type png)
 <use img/ADP.png>
 Package pdftex.def Info: img/ADP.png  used on input line 17.
@@ -1343,7 +1343,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/ciclo_fotodiodo_corrente.png, id=285, 1014.79124pt x 358.33875pt>
+<img/ciclo_fotodiodo_corrente.png, id=291, 1014.79124pt x 358.33875pt>
 File: img/ciclo_fotodiodo_corrente.png Graphic file (type png)
 <use img/ciclo_fotodiodo_corrente.png>
 Package pdftex.def Info: img/ciclo_fotodiodo_corrente.png  used on input line 53.
@@ -1359,7 +1359,7 @@ Underfull \vbox (badness 6741) has occurred while \output is active []
 
 
 [4 <./img/sipm_adp_circuito.png> <./img/ADP.png>]
-<img/sipm_schema+board.jpg, id=300, 542.53395pt x 879.9636pt>
+<img/sipm_schema+board.jpg, id=306, 542.53395pt x 879.9636pt>
 File: img/sipm_schema+board.jpg Graphic file (type jpg)
 <use img/sipm_schema+board.jpg>
 Package pdftex.def Info: img/sipm_schema+board.jpg  used on input line 66.
@@ -1371,7 +1371,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [5 <./img/ciclo_fotodiodo_corrente.png>]
-<img/setup_sipm.jpg, id=308, 4095.3pt x 3071.475pt>
+<img/setup_sipm.jpg, id=314, 4095.3pt x 3071.475pt>
 File: img/setup_sipm.jpg Graphic file (type jpg)
 <use img/setup_sipm.jpg>
 Package pdftex.def Info: img/setup_sipm.jpg  used on input line 85.
@@ -1390,12 +1390,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [6 <./img/sipm_schema+board.jpg>]
 
 [7 <./img/setup_sipm.jpg>]
-<img/char_IV.pdf, id=319, 320.13661pt x 244.12903pt>
+<img/char_IV.pdf, id=325, 320.13661pt x 244.12903pt>
 File: img/char_IV.pdf Graphic file (type pdf)
 <use img/char_IV.pdf>
 Package pdftex.def Info: img/char_IV.pdf  used on input line 109.
 (pdftex.def)             Requested size: 320.0935pt x 244.10234pt.
-<img/char_IV_filtered.pdf, id=320, 332.13661pt x 248.19696pt>
+<img/char_IV_filtered.pdf, id=326, 332.13661pt x 248.19696pt>
 File: img/char_IV_filtered.pdf Graphic file (type pdf)
 <use img/char_IV_filtered.pdf>
 Package pdftex.def Info: img/char_IV_filtered.pdf  used on input line 126.
@@ -1407,7 +1407,7 @@ Package pdftex.def Info: img/char_IV_filtered.pdf  used on input line 126.
 [9 <./img/char_IV_filtered.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./img/circuito_microcella.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/circuito_microcella.pdf, id=365, 173.68889pt x 202.8378pt>
+<img/circuito_microcella.pdf, id=371, 173.68889pt x 202.8378pt>
 File: img/circuito_microcella.pdf Graphic file (type pdf)
 <use img/circuito_microcella.pdf>
 Package pdftex.def Info: img/circuito_microcella.pdf  used on input line 164.
@@ -1422,12 +1422,12 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
-<img/bga614_circuito.png, id=384, 510.10574pt x 226.446pt>
+<img/bga614_circuito.png, id=390, 510.10574pt x 226.446pt>
 File: img/bga614_circuito.png Graphic file (type png)
 <use img/bga614_circuito.png>
 Package pdftex.def Info: img/bga614_circuito.png  used on input line 18.
 (pdftex.def)             Requested size: 426.79135pt x 189.46353pt.
-<img/darlington_configuration.jpg, id=385, 383.93437pt x 402.75468pt>
+<img/darlington_configuration.jpg, id=391, 383.93437pt x 402.75468pt>
 File: img/darlington_configuration.jpg Graphic file (type jpg)
 <use img/darlington_configuration.jpg>
 Package pdftex.def Info: img/darlington_configuration.jpg  used on input line 29.
@@ -1443,7 +1443,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 
 pdfTeX warning: pdflatex.exe (file ./img/preamp_circuito.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/preamp_circuito.pdf, id=394, 867.24pt x 318.22888pt>
+<img/preamp_circuito.pdf, id=400, 867.24pt x 318.22888pt>
 File: img/preamp_circuito.pdf Graphic file (type pdf)
 <use img/preamp_circuito.pdf>
 Package pdftex.def Info: img/preamp_circuito.pdf  used on input line 37.
@@ -1456,7 +1456,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [12 <./img/bga614_circuito.png> <./img/darlington_configuration.jpg>]
 
 pdfTeX warning: pdflatex.exe (file ./img/preamp_circuito_pdl.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/preamp_circuito_pdl.pdf, id=400, 549.01106pt x 462.76888pt>
+<img/preamp_circuito_pdl.pdf, id=406, 549.01106pt x 462.76888pt>
 File: img/preamp_circuito_pdl.pdf Graphic file (type pdf)
 <use img/preamp_circuito_pdl.pdf>
 Package pdftex.def Info: img/preamp_circuito_pdl.pdf  used on input line 64.
@@ -1469,7 +1469,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [13 <./img/preamp_circuito.pdf>]
 
 [14 <./img/preamp_circuito_pdl.pdf>]
-<img/bjt_ac_model.png, id=429, 231.86626pt x 179.4705pt>
+<img/bjt_ac_model.png, id=435, 231.86626pt x 179.4705pt>
 File: img/bjt_ac_model.png Graphic file (type png)
 <use img/bjt_ac_model.png>
 Package pdftex.def Info: img/bjt_ac_model.png  used on input line 143.
@@ -1477,7 +1477,7 @@ Package pdftex.def Info: img/bjt_ac_model.png  used on input line 143.
 
 
 pdfTeX warning: pdflatex.exe (file ./img/preamp_circuito_ac.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/preamp_circuito_ac.pdf, id=430, 1474.54881pt x 462.76888pt>
+<img/preamp_circuito_ac.pdf, id=436, 1474.54881pt x 462.76888pt>
 File: img/preamp_circuito_ac.pdf Graphic file (type pdf)
 <use img/preamp_circuito_ac.pdf>
 Package pdftex.def Info: img/preamp_circuito_ac.pdf  used on input line 150.
@@ -1487,7 +1487,7 @@ Package pdftex.def Info: img/preamp_circuito_ac.pdf  used on input line 150.
 [15]
 
 pdfTeX warning: pdflatex.exe (file ./img/preamp_circuito_ac_senza_LC.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/preamp_circuito_ac_senza_LC.pdf, id=436, 375.32219pt x 404.47108pt>
+<img/preamp_circuito_ac_senza_LC.pdf, id=442, 375.32219pt x 404.47108pt>
 File: img/preamp_circuito_ac_senza_LC.pdf Graphic file (type pdf)
 <use img/preamp_circuito_ac_senza_LC.pdf>
 Package pdftex.def Info: img/preamp_circuito_ac_senza_LC.pdf  used on input line 161.
@@ -1503,7 +1503,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [17 <./img/preamp_circuito_ac_senza_LC.pdf>]
-<img/bode_preamp.png, id=478, 1154.51324pt x 519.1395pt>
+<img/bode_preamp.png, id=484, 1154.51324pt x 519.1395pt>
 File: img/bode_preamp.png Graphic file (type png)
 <use img/bode_preamp.png>
 Package pdftex.def Info: img/bode_preamp.png  used on input line 226.
@@ -1514,12 +1514,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [18]
-<img/out_tran_0_20m.png, id=488, 922.647pt x 415.5525pt>
+<img/out_tran_0_20m.png, id=494, 922.647pt x 415.5525pt>
 File: img/out_tran_0_20m.png Graphic file (type png)
 <use img/out_tran_0_20m.png>
 Package pdftex.def Info: img/out_tran_0_20m.png  used on input line 251.
 (pdftex.def)             Requested size: 277.41176pt x 124.9457pt.
-<img/caratteristica_IV_preamp_0_20m.png, id=489, 922.647pt x 415.5525pt>
+<img/caratteristica_IV_preamp_0_20m.png, id=495, 922.647pt x 415.5525pt>
 File: img/caratteristica_IV_preamp_0_20m.png Graphic file (type png)
 <use img/caratteristica_IV_preamp_0_20m.png>
 Package pdftex.def Info: img/caratteristica_IV_preamp_0_20m.png  used on input line 257.
@@ -1527,7 +1527,7 @@ Package pdftex.def Info: img/caratteristica_IV_preamp_0_20m.png  used on input l
 
 
 [19 <./img/bode_preamp.png>]
-<img/caratteristica_IV_preamp_0_8m.png, id=495, 922.647pt x 415.5525pt>
+<img/caratteristica_IV_preamp_0_8m.png, id=501, 922.647pt x 415.5525pt>
 File: img/caratteristica_IV_preamp_0_8m.png Graphic file (type png)
 <use img/caratteristica_IV_preamp_0_8m.png>
 Package pdftex.def Info: img/caratteristica_IV_preamp_0_8m.png  used on input line 269.
@@ -1535,12 +1535,12 @@ Package pdftex.def Info: img/caratteristica_IV_preamp_0_8m.png  used on input li
 
 
 [20 <./img/out_tran_0_20m.png> <./img/caratteristica_IV_preamp_0_20m.png>]
-<img/schematico_pcb.png, id=502, 532.8708pt x 288.1164pt>
+<img/schematico_pcb.png, id=508, 532.8708pt x 288.1164pt>
 File: img/schematico_pcb.png Graphic file (type png)
 <use img/schematico_pcb.png>
 Package pdftex.def Info: img/schematico_pcb.png  used on input line 293.
 (pdftex.def)             Requested size: 426.79135pt x 230.77039pt.
-<img/diff_pth_smd.png, id=503, 389.65575pt x 162.6075pt>
+<img/diff_pth_smd.png, id=509, 389.65575pt x 162.6075pt>
 File: img/diff_pth_smd.png Graphic file (type png)
 <use img/diff_pth_smd.png>
 Package pdftex.def Info: img/diff_pth_smd.png  used on input line 307.
@@ -1554,7 +1554,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [21 <./img/caratteristica_IV_preamp_0_8m.png>]
 
 [22 <./img/schematico_pcb.png> <./img/diff_pth_smd.png>]
-<img/preamp_board.png, id=516, 245.718pt x 96.36pt>
+<img/preamp_board.png, id=522, 245.718pt x 96.36pt>
 File: img/preamp_board.png Graphic file (type png)
 <use img/preamp_board.png>
 Package pdftex.def Info: img/preamp_board.png  used on input line 334.
@@ -1568,7 +1568,7 @@ Capitolo 3.
 LaTeX Info: Symbol \textmu not provided by
             font family ntxtlf in TS1 encoding.
             Default family used instead on input line 13.
-<img/muoncascade.jpg, id=527, 521.95pt x 755.82375pt>
+<img/muoncascade.jpg, id=533, 521.95pt x 755.82375pt>
 File: img/muoncascade.jpg Graphic file (type jpg)
 <use img/muoncascade.jpg>
 Package pdftex.def Info: img/muoncascade.jpg  used on input line 19.
@@ -1585,12 +1585,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [26 <./img/muoncascade.jpg>]
 
 [27]
-<img/circuito_lettura_alimentazione.jpg, id=550, 3071.475pt x 4095.3pt>
+<img/circuito_lettura_alimentazione.jpg, id=556, 3071.475pt x 4095.3pt>
 File: img/circuito_lettura_alimentazione.jpg Graphic file (type jpg)
 <use img/circuito_lettura_alimentazione.jpg>
 Package pdftex.def Info: img/circuito_lettura_alimentazione.jpg  used on input line 71.
 (pdftex.def)             Requested size: 320.0935pt x 426.73851pt.
-<img/setup_rilevazione_muoni.jpg, id=551, 4095.3pt x 3071.475pt>
+<img/setup_rilevazione_muoni.jpg, id=557, 4095.3pt x 3071.475pt>
 File: img/setup_rilevazione_muoni.jpg Graphic file (type jpg)
 <use img/setup_rilevazione_muoni.jpg>
 Package pdftex.def Info: img/setup_rilevazione_muoni.jpg  used on input line 80.
@@ -1599,7 +1599,7 @@ Package pdftex.def Info: img/setup_rilevazione_muoni.jpg  used on input line 80.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/oscilloscopio_display.png, id=552, 903.375pt x 677.53125pt>
+<img/oscilloscopio_display.png, id=558, 903.375pt x 677.53125pt>
 File: img/oscilloscopio_display.png Graphic file (type png)
 <use img/oscilloscopio_display.png>
 Package pdftex.def Info: img/oscilloscopio_display.png  used on input line 92.
@@ -1610,7 +1610,7 @@ Package pdftex.def Info: img/oscilloscopio_display.png  used on input line 92.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf, id=557, 318.47467pt x 244.12903pt>
+<img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf, id=563, 318.47467pt x 244.12903pt>
 File: img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf Graphic file (type pdf)
 <use img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf>
 Package pdftex.def Info: img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf  used on input line 103.
@@ -1628,7 +1628,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [30 <./img/oscilloscopio_display.png (PNG copy)> <./img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./img/butterworth_ordini_vettoriale.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<img/butterworth_ordini_vettoriale.pdf, id=574, 194.01242pt x 167.55598pt>
+<img/butterworth_ordini_vettoriale.pdf, id=581, 194.01242pt x 167.55598pt>
 File: img/butterworth_ordini_vettoriale.pdf Graphic file (type pdf)
 <use img/butterworth_ordini_vettoriale.pdf>
 Package pdftex.def Info: img/butterworth_ordini_vettoriale.pdf  used on input line 134.
@@ -1642,7 +1642,7 @@ Underfull \vbox (badness 1953) has occurred while \output is active []
 LaTeX Info: Symbol \textmu not provided by
             font family ntxtlf in TS1 encoding.
             Default family used instead on input line 155.
-<img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf, id=667, 318.47467pt x 244.12903pt>
+<img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf, id=673, 318.47467pt x 244.12903pt>
 File: img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf Graphic file (type pdf)
 <use img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf>
 Package pdftex.def Info: img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf  used on input line 168.
@@ -1650,7 +1650,7 @@ Package pdftex.def Info: img/20240502_single_bias_42V_trig_m50mV_box_indoor__fil
 
 
 [32 <./img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf>]
-<img/istogramma_minimi.pdf, id=681, 324.47466pt x 247.76724pt>
+<img/istogramma_minimi.pdf, id=687, 324.47466pt x 247.76724pt>
 File: img/istogramma_minimi.pdf Graphic file (type pdf)
 <use img/istogramma_minimi.pdf>
 Package pdftex.def Info: img/istogramma_minimi.pdf  used on input line 192.
@@ -1658,12 +1658,12 @@ Package pdftex.def Info: img/istogramma_minimi.pdf  used on input line 192.
 
 
 [33 <./img/istogramma_minimi.pdf>]
-<img/Landau_Distribution_PDF.svg.png, id=694, 1284.8pt x 814.04124pt>
+<img/Landau_Distribution_PDF.svg.png, id=700, 1284.8pt x 814.04124pt>
 File: img/Landau_Distribution_PDF.svg.png Graphic file (type png)
 <use img/Landau_Distribution_PDF.svg.png>
 Package pdftex.def Info: img/Landau_Distribution_PDF.svg.png  used on input line 212.
 (pdftex.def)             Requested size: 320.0935pt x 202.80179pt.
-<img/muons_landau_fit.pdf, id=695, 324.47466pt x 245.39523pt>
+<img/muons_landau_fit.pdf, id=701, 324.47466pt x 245.39523pt>
 File: img/muons_landau_fit.pdf Graphic file (type pdf)
 <use img/muons_landau_fit.pdf>
 Package pdftex.def Info: img/muons_landau_fit.pdf  used on input line 224.
@@ -1675,7 +1675,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [34 <./img/Landau_Distribution_PDF.svg.png>]
-<img/scarti.pdf, id=702, 674.35036pt x 553.58823pt>
+<img/scarti.pdf, id=708, 674.35036pt x 553.58823pt>
 File: img/scarti.pdf Graphic file (type pdf)
 <use img/scarti.pdf>
 Package pdftex.def Info: img/scarti.pdf  used on input line 243.
@@ -1687,7 +1687,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [35 <./img/muons_landau_fit.pdf>]
-<img/istogramma_minimi_selezionati.pdf, id=722, 324.47466pt x 247.76724pt>
+<img/istogramma_minimi_selezionati.pdf, id=728, 324.47466pt x 247.76724pt>
 File: img/istogramma_minimi_selezionati.pdf Graphic file (type pdf)
 <use img/istogramma_minimi_selezionati.pdf>
 Package pdftex.def Info: img/istogramma_minimi_selezionati.pdf  used on input line 261.
@@ -1719,29 +1719,37 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.0pt on input line 43.
 
 
-[41])
+[41]) (./ringraziamenti.tex
 
-[42] (./main.aux)
+[42]
+
+[43]
+
+[44
+
+])
+
+[45] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 223AF1F7C96BB665FFEDD9BD13ED73C8;3241.
+(rerunfilecheck)             Checksum: D4153B0A57EDE3E403F35D5484521B6E;3351.
  ) 
 Here is how much of TeX's memory you used:
- 62865 strings out of 473584
- 1540242 string characters out of 5732363
+ 62877 strings out of 473584
+ 1540454 string characters out of 5732363
  2341568 words of memory out of 5000000
- 84763 multiletter control sequences out of 15000+600000
+ 84768 multiletter control sequences out of 15000+600000
  618717 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,96p,844b,1129s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,96p,854b,1129s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (52 pages, 8891425 bytes).
+Output written on main.pdf (55 pages, 8893533 bytes).
 PDF statistics:
- 886 PDF objects out of 1000 (max. 8388607)
- 698 compressed objects within 7 object streams
- 136 named destinations out of 1000 (max. 500000)
- 327 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 906 PDF objects out of 1000 (max. 8388607)
+ 714 compressed objects within 8 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 335 words of extra memory for PDF output out of 10000 (max. 10000000)
 

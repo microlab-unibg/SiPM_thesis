@@ -1,8 +1,8 @@
-PWD c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TESI TRIENNALE/tesi_Giorgio_Venezia
+PWD c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TRIENNALE/TESI TRIENNALE/tesi_Giorgio_Venezia
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex
+INPUT c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TRIENNALE/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -791,6 +791,9 @@ INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
+INPUT ./ringraziamenti.tex
+INPUT ./ringraziamenti.tex
+INPUT ringraziamenti.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

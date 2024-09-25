@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1726222775.09264 "main.aux" "main.bbl" "main" 1726222783.24316 0
+["bibtex main"] 1727281420.32915 "main.aux" "main.bbl" "main" 1727281425.47374 0
   "./IEEEtran.bst" 1725895238 59214 a90e64071cc7185c225b4d6ec93de903 ""
   "./references.bib" 1726220434 4264 cb9b4793b08394b3733b6e274c3d6bc6 ""
-  "main.aux" 1726222781 22667 9d0d17ee6dc796b73f6cee579f190a90 "pdflatex"
+  "main.aux" 1727281424 22760 d3b8c2bd00d0a07a77477b81e389c286 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1726222775.80935 "c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex" "main.pdf" "main" 1726222783.24466 0
-  "c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex" 1726222701 764 41883b2cb453121acbe6571d54930531 ""
+["pdflatex"] 1727281420.79075 "c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TRIENNALE/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex" "main.pdf" "main" 1727281425.47443 0
+  "c:/Users/giorg/OneDrive/Documenti/GIORGIO/SCUOLA/UNIVERSITA/TRIENNALE/TESI TRIENNALE/tesi_Giorgio_Venezia/main.tex" 1727280329 746 558cb4667702df1539c3171f3da29b78 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1722253291 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1722256554 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1722256554 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -339,8 +339,8 @@
   "c:/texlive/2024/texmf.cnf" 1722258950 713 614551405fc44b98efbf516466e3c909 ""
   "capitolo1.tex" 1726222710 14447 a1de4b1a7c47634069da0129c15e1314 ""
   "capitolo2.tex" 1726222718 28570 ddf765bd4dfb11676fca3d45afb0e629 ""
-  "capitolo3.tex" 1726222749 23506 3f893b0897ca884323658b8e4ab118b1 ""
-  "conclusione.tex" 1726219217 1964 d0ea59ee0e2b263ea23f7cb67cfa6390 ""
+  "capitolo3.tex" 1726231047 23506 3f893b0897ca884323658b8e4ab118b1 ""
+  "conclusione.tex" 1727275255 2044 52f32d3e43a73c4a1ec914ade5811c70 ""
   "frontespizio.tex" 1725895242 2413 129eb3df14f4aa8b91777c5f3ba946a1 ""
   "img/20240502_single_bias_42V_trig_m50mV_box_indoor.pdf" 1725916683 100211 c0e4ede9650a5338d2ac623126b9c653 ""
   "img/20240502_single_bias_42V_trig_m50mV_box_indoor__filtrato.pdf" 1725916684 88412 72e7aaf0ff879573e754be41643ac7f2 ""
@@ -376,15 +376,16 @@
   "img/setup_sipm.jpg" 1725895243 2157972 728f71e12df6917ee3614325e40c04aa ""
   "img/sipm_adp_circuito.png" 1725895242 187495 7731d3a702cd03c96d02fb0a01a5bda2 ""
   "img/sipm_schema+board.jpg" 1725895242 274151 e9d41f87dc56d1fd1508a41858c67c47 ""
-  "introduzione.tex" 1726218901 2083 bfca66adfc826fa674f2996228835b88 ""
-  "main.aux" 1726222781 22667 9d0d17ee6dc796b73f6cee579f190a90 "pdflatex"
-  "main.bbl" 1726222775 4838 b53ed5d7c3b27e40d2c61d8c11973824 "bibtex main"
-  "main.lof" 1726222781 7493 9db3e5c2d4b30bc5676885659df1fd76 "pdflatex"
-  "main.lot" 1726222781 538 daefefd569f424af9e4570f5c2a0aae7 "pdflatex"
-  "main.out" 1726222781 3241 223af1f7c96bb665ffedd9bd13ed73c8 "pdflatex"
-  "main.tex" 1726222701 764 41883b2cb453121acbe6571d54930531 ""
-  "main.toc" 1726222781 1501 9628baad20f52db6d1f1636a561e1320 "pdflatex"
+  "introduzione.tex" 1727275211 2167 1835afa000a1282c11d64aea52781697 ""
+  "main.aux" 1727281424 22760 d3b8c2bd00d0a07a77477b81e389c286 "pdflatex"
+  "main.bbl" 1727281420 4838 b53ed5d7c3b27e40d2c61d8c11973824 "bibtex main"
+  "main.lof" 1727281424 7493 9db3e5c2d4b30bc5676885659df1fd76 "pdflatex"
+  "main.lot" 1727281424 538 daefefd569f424af9e4570f5c2a0aae7 "pdflatex"
+  "main.out" 1727281424 3351 d4153b0a57ede3e403f35d5484521b6e "pdflatex"
+  "main.tex" 1727280329 746 558cb4667702df1539c3171f3da29b78 ""
+  "main.toc" 1727281424 1553 a9a2d698aafd6bb9834935a7d39b6ad0 "pdflatex"
   "preamble.tex" 1726220764 2847 caafc75cfef4c7f847a5e19788e336b9 ""
+  "ringraziamenti.tex" 1727280369 1699 2ba3aec63b958007479938c6cd34e738 ""
   (generated)
   "main.aux"
   "main.lof"
